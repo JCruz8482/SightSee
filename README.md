@@ -1,1 +1,3 @@
 # SightSee
+
+PhotoSharing App
